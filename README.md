@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/94139142899381.57dbc907d55bc.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A Passionate Software Developer from India🟧⬜🟩</h3>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif">
 
 
 # 💫 About Me:
