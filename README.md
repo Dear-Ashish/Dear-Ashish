@@ -15,9 +15,9 @@
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dear-ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dear-ashish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dear-ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dear-ashish" height="30" width="40" /></a>
 <a href="https://twitter.com/@dearashish191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dearashish191" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dear_ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dear_ashish/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dear_ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dear_ashish" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
